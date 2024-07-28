@@ -11,7 +11,7 @@ in suboptimal performance. In this paper, we propose a cross-modal feature
 fusion VLN with history-aware information, which leverages the agent’s past
 experiences to make more informed navigation decisions. Regretful model
 and self-monitoring model are added, advantage actor critic(A2C) reinforcement learning algorithm is used to improve navigation success rate, reduce
-action redundancy, and shorten navigation paths. Then the data augmentation method based on Speaker is introduced to improve the generalization
+action redundancy, and shorten navigation paths. Then the data augmentation method based on Speaker is introduced to improve the generalization
 of the model. We evaluate the proposed algorithm on the Room-to-Room
 (R2R) and Room-for-Room (R4R), and the experimental results show thatit outperforms existing models by comparing the state-of-art methods.
 
